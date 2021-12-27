@@ -25,6 +25,7 @@ This project is able to display Bar chart and Scatter point plot that shows data
 
 ## Images of the Project
 ![](images/overview.png)
+Figure 1- Simple Overview of the Project interface
 
 ## Challenges and Solution
 One of the challenges I faced was reading data in an array of String. This caused problems as every data type had to be typecasted and it was not a efficient way of programming.
