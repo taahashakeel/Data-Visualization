@@ -1,7 +1,6 @@
 
 #  Data Visualization
-Programming Language: Processing Programming Language 
-
+Programming Language: Processing 
 
 Library: ControlP5 library was imported for controlling buttons 
 
