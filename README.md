@@ -23,6 +23,8 @@ Follow the steps below to import Libaray
 ## Purpose 
 This project is able to display Bar chart and Scatter point plot that shows data of average dailydaily minimum and maximum temperatures for each month for about 30 years for the City of Calgary. Also, user's are able to view data for select months and maximum and minimum temperature will be shown.
 
+## Images of the Project
+![](images/overview.png)
 
 ## Challenges and Solution
 One of the challenges I faced was reading data in an array of String. This caused problems as every data type had to be typecasted and it was not a efficient way of programming.
