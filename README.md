@@ -16,7 +16,7 @@ Follow the steps below to import Libaray
  2. Go to Sketch
  3. Click Import Libaray
  4. Then Click on Add Libaray
- 5. Type the following in the search bar: ControlP5 
+ 5. Type the following on the search bar: ControlP5 
  6. Click Install
  
 
