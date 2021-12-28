@@ -17,7 +17,7 @@ Follow the steps below to import Library
  4. Then Click on Add Library
  5. Type the following on the search bar: ControlP5 
  6. Click Install
-Click run button on Processing toolbar to run the project 
+Click the run button on Processing toolbar to run the project 
 
 
 
